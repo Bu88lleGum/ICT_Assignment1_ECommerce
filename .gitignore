@@ -1,0 +1,9 @@
+*.class
+out/
+.idea/workspace.xml
+.idea/shelf/
+.idea/tasks.xml
+.DS_Store
+
+# Project exclude paths
+/.

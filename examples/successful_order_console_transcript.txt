@@ -1,0 +1,152 @@
+Welcome to the ICT Console E-Commerce System!
+DEMO customer: customer@demo.com / 1234
+DEMO employee: employee@demo.com / 1234
+
+========== MAIN MENU ==========
+1. Register as customer
+2. Log in
+3. Browse products
+0. Exit
+Choose: 
+--- LOGIN ---
+Email: Password: 
+===== CUSTOMER: Demo Customer =====
+1. List products
+2. Place order
+3. View my orders
+4. View my profile
+0. Log out
+Choose: 
+--- NEW ORDER (0 = finish selecting) ---
+
+=== AVAILABLE PRODUCTS ===
+Product #1 | Java Basics | 7000.0 KZT | Stock: 6
+  Type: Book | Author: A. Teacher
+Product #2 | Headphones | 15000.0 KZT | Stock: 4
+  Type: Electronics | Warranty: 12 months
+Product #3 | T-Shirt | 5500.0 KZT | Stock: 8
+  Type: Clothing | Size: M
+Product ID (0 to finish): Quantity: Added to cart.
+
+=== AVAILABLE PRODUCTS ===
+Product #1 | Java Basics | 7000.0 KZT | Stock: 6
+  Type: Book | Author: A. Teacher
+Product #2 | Headphones | 15000.0 KZT | Stock: 4
+  Type: Electronics | Warranty: 12 months
+Product #3 | T-Shirt | 5500.0 KZT | Stock: 8
+  Type: Clothing | Size: M
+Product ID (0 to finish): Quantity: Added to cart.
+
+=== AVAILABLE PRODUCTS ===
+Product #1 | Java Basics | 7000.0 KZT | Stock: 6
+  Type: Book | Author: A. Teacher
+Product #2 | Headphones | 15000.0 KZT | Stock: 4
+  Type: Electronics | Warranty: 12 months
+Product #3 | T-Shirt | 5500.0 KZT | Stock: 8
+  Type: Clothing | Size: M
+Product ID (0 to finish): 
+--- ORDER PREVIEW ---
+  Java Basics x 2 @ 7000.0 KZT = 14000.0 KZT
+  Headphones x 1 @ 15000.0 KZT = 15000.0 KZT
+TOTAL: 29000.0 KZT
+Confirm order? 1 = yes, 0 = no: Order placed successfully!
+----------------------------------------
+RECEIPT | Order #1
+Customer: Demo Customer
+  Java Basics x 2 @ 7000.0 KZT = 14000.0 KZT
+  Headphones x 1 @ 15000.0 KZT = 15000.0 KZT
+TOTAL: 29000.0 KZT
+----------------------------------------
+
+===== CUSTOMER: Demo Customer =====
+1. List products
+2. Place order
+3. View my orders
+4. View my profile
+0. Log out
+Choose: 
+=== AVAILABLE PRODUCTS ===
+Product #1 | Java Basics | 7000.0 KZT | Stock: 4
+  Type: Book | Author: A. Teacher
+Product #2 | Headphones | 15000.0 KZT | Stock: 3
+  Type: Electronics | Warranty: 12 months
+Product #3 | T-Shirt | 5500.0 KZT | Stock: 8
+  Type: Clothing | Size: M
+
+===== CUSTOMER: Demo Customer =====
+1. List products
+2. Place order
+3. View my orders
+4. View my profile
+0. Log out
+Choose: 
+=== MY ORDERS ===
+----------------------------------------
+RECEIPT | Order #1
+Customer: Demo Customer
+  Java Basics x 2 @ 7000.0 KZT = 14000.0 KZT
+  Headphones x 1 @ 15000.0 KZT = 15000.0 KZT
+TOTAL: 29000.0 KZT
+----------------------------------------
+
+===== CUSTOMER: Demo Customer =====
+1. List products
+2. Place order
+3. View my orders
+4. View my profile
+0. Log out
+Choose: User #1 | Demo Customer | customer@demo.com | Customer
+  Loyalty points: 1
+
+===== CUSTOMER: Demo Customer =====
+1. List products
+2. Place order
+3. View my orders
+4. View my profile
+0. Log out
+Choose: 
+========== MAIN MENU ==========
+1. Register as customer
+2. Log in
+3. Browse products
+0. Exit
+Choose: 
+--- LOGIN ---
+Email: Password: 
+===== EMPLOYEE: Demo Employee =====
+1. List products
+2. Add book
+3. Add electronics
+4. Add clothing
+5. List all users
+6. Add customer
+7. Add employee
+8. View all orders
+0. Log out
+Choose: 
+=== ALL ORDERS ===
+----------------------------------------
+RECEIPT | Order #1
+Customer: Demo Customer
+  Java Basics x 2 @ 7000.0 KZT = 14000.0 KZT
+  Headphones x 1 @ 15000.0 KZT = 15000.0 KZT
+TOTAL: 29000.0 KZT
+----------------------------------------
+
+===== EMPLOYEE: Demo Employee =====
+1. List products
+2. Add book
+3. Add electronics
+4. Add clothing
+5. List all users
+6. Add customer
+7. Add employee
+8. View all orders
+0. Log out
+Choose: 
+========== MAIN MENU ==========
+1. Register as customer
+2. Log in
+3. Browse products
+0. Exit
+Choose: Goodbye!
